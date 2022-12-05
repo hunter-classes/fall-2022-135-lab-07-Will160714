@@ -3,6 +3,7 @@
 #include "funcs.h"
 
 int main(){
+    std::cout << "Dev Branch" << std::endl;
     std::cout << "Task A" << std::endl;
     std::cout << "removeLeadingSpaces('       int x = 1;  '): " << removeLeadingSpaces("       int x = 1;  ") << std::endl;
     std::cout << std::endl;
