@@ -2,6 +2,8 @@
 #include <string>
 #include "funcs.h"
 
+//add tests in a txt file that then can be used with these funcs"
+
 int main(){
     std::string line = "";
     int count = 0;
